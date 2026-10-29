@@ -2,7 +2,7 @@
 
 Single Page Application (SPA) desenvolvida em Vanilla JavaScript para preparação de vestibulandos da ETEC. O projeto combina banco de questões próprio, controle de estado local e persistência de dados no navegador.
 
-> **Deploy:** [Insira o link do GitHub Pages ou Netlify aqui]
+> **Deploy:** [[Simulado](https://maluteamo.netlify.app/)]
 
 ---
 
